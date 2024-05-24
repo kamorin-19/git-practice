@@ -9,3 +9,4 @@ githubで更新
 githubで更新してマージする
 rebase-practiceブランチで更新
 stashように内容を更新
+またまたstashを作る
