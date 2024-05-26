@@ -12,4 +12,3 @@ stashように内容を更新
 またまたstashを作る
 3rd
 tag
-githubで打ち消すように書く
