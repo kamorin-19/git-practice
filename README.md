@@ -12,3 +12,4 @@ stashように内容を更新
 またまたstashを作る
 3rd
 tag
+revertの練習用に追加
